@@ -1,5 +1,7 @@
 {
-   "batches":[
-      {"credit":"$19.99"},{"debit":"$1.99"},{"credit":"$100.00"}
+   "batches": [
+      {"credit":"$19.99","debit":"$1.99","credit":"$100.00"},
+      {"credit":"$19.99","debit":"$1.99","credit":"$100.00"},
+      {"credit":"$19.99","debit":"$1.99","credit":"$100.00"}
    ]
 }
